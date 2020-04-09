@@ -1,7 +1,7 @@
 # Hypertube
 
 This project is a video streaming web-app, similar to PopcornTime 🍿\
-I worked with @AntoineDrt and @gab959 to develop this application.
+Team : @AntoineDrt @gab959 @dylan-fevrier
 
 ## Stack
 
